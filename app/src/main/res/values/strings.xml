@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Live Mosque- Home</string>
+    <string name="mobile_setting">Reset factory</string>
+    <string name="change_setting">Change Launcher</string>
+    <string name="change_wallpaper">Wallpaper</string>
+    <string name="prayers"><u>Prayers</u></string>
+    <string name="time"><u>Time</u></string>
+    <string name="wallpaper_transition">Wallpaper Transition</string>
+    <string name="admob_app_id">ca-app-pub-9813697071406151~2491963016</string>
+    <string name="admob_banner_id">ca-app-pub-9813697071406151/1734211274</string>
+    <string name="netwatch_target_ping_server_ip_add">8.8.8.8</string>
+    <string name="netwatch_lost_connection">No internet connection</string>
+
+</resources>

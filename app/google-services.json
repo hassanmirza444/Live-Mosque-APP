@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "41224040890",
+    "firebase_url": "https://azan-994ad.firebaseio.com",
+    "project_id": "azan-994ad",
+    "storage_bucket": "azan-994ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41224040890:android:5183e45ee8750716112d83",
+        "android_client_info": {
+          "package_name": "live.mosque"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41224040890-1s0bmdb8v9vb9cido2pkha58r864pcfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMeQeddQFDEn3eTf1bz331dFWSoOTih7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41224040890-1s0bmdb8v9vb9cido2pkha58r864pcfi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "41224040890-499l1uh9f04jcbl3vshc51kcho1n19o9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "live.mosque"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41224040890:android:ce19360e874b629b112d83",
+        "android_client_info": {
+          "package_name": "live.mosque.clock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41224040890-1s0bmdb8v9vb9cido2pkha58r864pcfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMeQeddQFDEn3eTf1bz331dFWSoOTih7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41224040890-1s0bmdb8v9vb9cido2pkha58r864pcfi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "41224040890-499l1uh9f04jcbl3vshc51kcho1n19o9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "live.mosque"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41224040890:android:00d984be3450dd0e112d83",
+        "android_client_info": {
+          "package_name": "live.mosque.home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41224040890-1s0bmdb8v9vb9cido2pkha58r864pcfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMeQeddQFDEn3eTf1bz331dFWSoOTih7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41224040890-1s0bmdb8v9vb9cido2pkha58r864pcfi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "41224040890-499l1uh9f04jcbl3vshc51kcho1n19o9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "live.mosque"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41224040890:android:5429bddf5ce2bfee112d83",
+        "android_client_info": {
+          "package_name": "live.mosque.imam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41224040890-1s0bmdb8v9vb9cido2pkha58r864pcfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMeQeddQFDEn3eTf1bz331dFWSoOTih7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41224040890-1s0bmdb8v9vb9cido2pkha58r864pcfi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "41224040890-499l1uh9f04jcbl3vshc51kcho1n19o9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "live.mosque"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
