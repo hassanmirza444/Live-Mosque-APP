@@ -1,5 +1,5 @@
 # Live-Mosque-APP
-he app is designed to help users find nearby mosques based on their current location. Here are some key features of the app:
+The app is designed to help users find nearby mosques based on their current location. Here are some key features of the app:
 
 Geolocation: 
 The app uses the device's GPS to determine the user's current location and display a list of nearby mosques.
